@@ -5,7 +5,7 @@
                 <div class="widget">
                     <img class="mb-4" src="/assets/assets/img/photos/mai/logoMAI-2.png"
                         srcset="/assets/assets/img/photos/mai/logoMAI-2.png " alt="" />
-                    <p class="mb-4">© 2022 MAI Amanatul Ummah. <br> All rights reserved.</p>
+                    <p class="mb-4">© 2023 MAI Amanatul Ummah. <br> All rights reserved.</p>
                     <nav class="nav social social-white">
                         <a href="#"><i class="uil uil-twitter"></i></a>
                         <a href="https://www.facebook.com/maistimewapacet/"><i class="uil uil-facebook-f"></i></a>
@@ -18,19 +18,6 @@
                 </div>
                 <!-- /.widget -->
             </div>
-            <!-- /column -->
-            {{-- <div class="col-md-4 col-lg-2 offset-lg-2">
-                <div class="widget">
-                    <h4 class="widget-title mb-3 text-white">Need Help?</h4>
-                    <ul class="list-unstyled mb-0">
-                        <li><a href="#">Support</a></li>
-                        <li><a href="#">Get Started</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                    </ul>
-                </div>
-                <!-- /.widget -->
-            </div> --}}
             <!-- /column -->
             <div class="col-md-4 col-lg-2 offset-lg-3">
                 <div class="widget">

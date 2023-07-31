@@ -92,7 +92,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-11 col-lg-8 col-xl-7 col-xxl-6 mx-auto text-center">
-                                    <h2 class="display-1 fs-56 mb-4 text-white animated-caption"
+                                    <h2 class="display-1 fs-22 mb-4 text-white animated-caption"
                                         data-anim="animate__slideInDown" data-anim-delay="500">
                                         {{ App\Models\Post::Latest()->first()->judul }}</h2>
                                     <p class="lead fs-23 lh-sm mb-7 text-white animated-caption"
